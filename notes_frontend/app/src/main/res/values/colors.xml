@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#2196f3</color>
+    <color name="secondaryColor">#ff9800</color>
+    <color name="accentColor">#4caf50</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="noteListBackground">#FAFAFA</color>
+    <color name="noteItemBackground">#FFFFFF</color>
+    <color name="noteTextColor">#222222</color>
+    <color name="dividerColor">#E0E0E0</color>
+</resources>
